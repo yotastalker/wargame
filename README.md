@@ -17,8 +17,8 @@ Experience the tension of Cold War nuclear strategy in this authentic recreation
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/yotastalker/wargames.git
-cd wargames
+git clone https://github.com/yotastalker/wargame.git
+cd wargame
 python3 wargames.py
 ```
 
